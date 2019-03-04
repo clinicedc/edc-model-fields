@@ -25,6 +25,7 @@ setup(
     long_description=README,
     zip_safe=False,
     keywords='django edc model field class',
+    install_requires=["edc_constants"],
     classifiers=[
         'Environment :: Web Environment',
         'Framework :: Django',
