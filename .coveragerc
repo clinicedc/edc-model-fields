@@ -1,8 +1,4 @@
 [run]
-omit =
-    */wsgi.py
-    setup.py
-    manage.py
-    */migrations/*
-    */mommy_*
-    venv/*
+include = edc_model_fields/*
+omit = edc_model_fields/tests/*,edc_model_fields/migrations/*
+branch = 1
