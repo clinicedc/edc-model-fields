@@ -29,6 +29,7 @@ DEFAULT_SETTINGS = DefaultTestSettings(
         "simple_history",
         "django_crypto_fields.apps.AppConfig",
         "edc_appointment.apps.AppConfig",
+        "edc_crf.apps.AppConfig",
         "edc_consent.apps.AppConfig",
         "edc_randomization.apps.AppConfig",
         "edc_device.apps.AppConfig",
