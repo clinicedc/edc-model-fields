@@ -1,7 +1,6 @@
 django_crypto_fields
 secrets.json
 notebooks/
-etc/
 transactions/
 run/
 log/
