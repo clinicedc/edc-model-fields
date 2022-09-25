@@ -4,6 +4,7 @@
 edc-model-fields
 ----------------
 
+Model field classes for clinicedc/edc projects
 
 .. |pypi| image:: https://img.shields.io/pypi/v/edc-model-fields.svg
     :target: https://pypi.python.org/pypi/edc-model-fields
