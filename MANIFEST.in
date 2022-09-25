@@ -1,6 +1,5 @@
 include AUTHORS CHANGES LICENSE VERSION
 include MANIFEST.in
 include *.rst
-include *.txt
 recursive-include edc_model_fields/templates *
 recursive-include edc_model_fields/static *
