@@ -17,6 +17,7 @@ DEFAULT_SETTINGS = DefaultTestSettings(
     template_dirs=[os.path.join(base_dir, app_name, "tests", "templates")],
     BASE_DIR=base_dir,
     APP_NAME=app_name,
+    SUBJECT_VISIT_MODEL="edc_visit_tracking.subjectvisit",
     INSTALLED_APPS=[
         "django.contrib.admin",
         "django.contrib.auth",
